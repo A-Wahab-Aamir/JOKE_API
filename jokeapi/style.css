@@ -1,0 +1,23 @@
+body{
+background-color: rgb(214, 214, 0);
+}
+
+.container{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+
+}
+span{
+
+font-size: 50px;
+}
+.joker{
+background-color: black;
+color: white;
+text-align: center;
+padding: 40px;
+width: 400px;
+height: 400px;
+}
